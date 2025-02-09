@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lcano\\github.com\\one\\core\\One.Application\\One.Application.csproj": {}
+    "C:\\lcano\\github.com\\one\\core\\one.application\\one.application.csproj": {}
   },
   "projects": {
-    "C:\\lcano\\github.com\\one\\core\\One.Application\\One.Application.csproj": {
+    "C:\\lcano\\github.com\\one\\core\\one.application\\one.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lcano\\github.com\\one\\core\\One.Application\\One.Application.csproj",
-        "projectName": "One.Application",
-        "projectPath": "C:\\lcano\\github.com\\one\\core\\One.Application\\One.Application.csproj",
+        "projectUniqueName": "C:\\lcano\\github.com\\one\\core\\one.application\\one.application.csproj",
+        "projectName": "one.application",
+        "projectPath": "C:\\lcano\\github.com\\one\\core\\one.application\\one.application.csproj",
         "packagesPath": "C:\\Users\\livingstonecano\\.nuget\\packages\\",
-        "outputPath": "C:\\lcano\\github.com\\one\\core\\One.Application\\obj\\",
+        "outputPath": "C:\\lcano\\github.com\\one\\core\\one.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

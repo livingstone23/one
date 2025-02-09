@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lcano\\github.com\\one\\core\\One.Infrastructure\\One.Infrastructure.csproj": {}
+    "C:\\lcano\\github.com\\one\\core\\one.infrastructure\\one.infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\lcano\\github.com\\one\\core\\One.Infrastructure\\One.Infrastructure.csproj": {
+    "C:\\lcano\\github.com\\one\\core\\one.infrastructure\\one.infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lcano\\github.com\\one\\core\\One.Infrastructure\\One.Infrastructure.csproj",
-        "projectName": "One.Infrastructure",
-        "projectPath": "C:\\lcano\\github.com\\one\\core\\One.Infrastructure\\One.Infrastructure.csproj",
+        "projectUniqueName": "C:\\lcano\\github.com\\one\\core\\one.infrastructure\\one.infrastructure.csproj",
+        "projectName": "one.infrastructure",
+        "projectPath": "C:\\lcano\\github.com\\one\\core\\one.infrastructure\\one.infrastructure.csproj",
         "packagesPath": "C:\\Users\\livingstonecano\\.nuget\\packages\\",
-        "outputPath": "C:\\lcano\\github.com\\one\\core\\One.Infrastructure\\obj\\",
+        "outputPath": "C:\\lcano\\github.com\\one\\core\\one.infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

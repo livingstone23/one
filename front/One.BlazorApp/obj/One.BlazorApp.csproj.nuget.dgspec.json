@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lcano\\github.com\\one\\front\\One.BlazorApp\\One.BlazorApp.csproj": {}
+    "C:\\lcano\\github.com\\one\\front\\one.blazorapp\\one.blazorapp.csproj": {}
   },
   "projects": {
-    "C:\\lcano\\github.com\\one\\front\\One.BlazorApp\\One.BlazorApp.csproj": {
+    "C:\\lcano\\github.com\\one\\front\\one.blazorapp\\one.blazorapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lcano\\github.com\\one\\front\\One.BlazorApp\\One.BlazorApp.csproj",
-        "projectName": "One.BlazorApp",
-        "projectPath": "C:\\lcano\\github.com\\one\\front\\One.BlazorApp\\One.BlazorApp.csproj",
+        "projectUniqueName": "C:\\lcano\\github.com\\one\\front\\one.blazorapp\\one.blazorapp.csproj",
+        "projectName": "one.blazorapp",
+        "projectPath": "C:\\lcano\\github.com\\one\\front\\one.blazorapp\\one.blazorapp.csproj",
         "packagesPath": "C:\\Users\\livingstonecano\\.nuget\\packages\\",
-        "outputPath": "C:\\lcano\\github.com\\one\\front\\One.BlazorApp\\obj\\",
+        "outputPath": "C:\\lcano\\github.com\\one\\front\\one.blazorapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mvcGMCOrRig=",
+  "dgSpecHash": "Go37JLT0qFE=",
   "success": true,
-  "projectFilePath": "C:\\lcano\\github.com\\one\\front\\One.BlazorApp\\One.BlazorApp.csproj",
+  "projectFilePath": "C:\\lcano\\github.com\\one\\front\\one.blazorapp\\one.blazorapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\livingstonecano\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",
     "C:\\Users\\livingstonecano\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.12\\microsoft.aspnetcore.components.8.0.12.nupkg.sha512",
